@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm Mubashir Sofi
 # 💫 About Me:
 About Me<br>​🔭 I’m currently working on: Mastering Data Structures & Algorithms in C++ and building ML models for real-world datasets.<br><br>​👯 I’m looking to collaborate on: Open-source AI/ML projects or innovative Web3/Space-tech applications.<br><br>​🤝 I’m looking for help with: Advanced System Design and optimizing large-scale Machine Learning pipelines.<br><br>​🌱 I’m currently learning: Deepening my knowledge in Geodata Processing and Computer Vision (inspired by my ISRO START training).<br><br>​💬 Ask me about: Python, C++, Space Science, or my experience as an ML intern at Edunet.<br><br>​⚡ Fun fact: I can explain the orbital mechanics of a satellite and then immediately switch to creating short-form content for social media!
 
